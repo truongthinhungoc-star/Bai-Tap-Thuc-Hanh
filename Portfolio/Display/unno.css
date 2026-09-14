@@ -1,0 +1,18 @@
+span{
+    color: red;
+    font-weight: bold;
+}
+span.maunen{
+    background-color: yellow;
+}
+span.maunen :hover{
+    background-image:url() ;
+    color: white;
+}
+p{
+    display: inline;
+}
+
+
+
+
